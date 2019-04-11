@@ -1,0 +1,4 @@
+enum launchStatus { PREBURN, BURN, POSTBURN, APOGEE, DESCENT, 
+LANDED};
+
+enum messageType { STANDBY, STATE, DATA, TEST, ERROR };
